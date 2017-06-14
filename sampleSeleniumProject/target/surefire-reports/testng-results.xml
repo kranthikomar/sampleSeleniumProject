@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="61180" started-at="2017-03-02T03:09:05Z" finished-at="2017-03-02T03:10:06Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="61180" started-at="2017-03-02T03:09:05Z" finished-at="2017-03-02T03:10:06Z">
+      <class name="testScripts.s102SearchForProductAndVerifyPLP">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:testScripts.s102SearchForProductAndVerifyPLP@b684286]" name="beforeMethod" is-config="true" duration-ms="30371" started-at="2017-03-01T22:09:26Z" finished-at="2017-03-01T22:09:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="s102SearchForProductAndVerifyPLPTest()[pri:0, instance:testScripts.s102SearchForProductAndVerifyPLP@b684286]" name="s102SearchForProductAndVerifyPLPTest" duration-ms="8991" started-at="2017-03-01T22:09:57Z" finished-at="2017-03-01T22:10:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- s102SearchForProductAndVerifyPLPTest -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:testScripts.s102SearchForProductAndVerifyPLP@b684286]" name="afterTest" is-config="true" duration-ms="706" started-at="2017-03-01T22:10:06Z" finished-at="2017-03-01T22:10:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- testScripts.s102SearchForProductAndVerifyPLP -->
+      <class name="testScripts.s101SearchForAProduct">
+        <test-method status="PASS" signature="init()[pri:0, instance:testScripts.s101SearchForAProduct@34ce8af7]" name="init" is-config="true" duration-ms="20110" started-at="2017-03-01T22:09:05Z" finished-at="2017-03-01T22:09:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="s101SearchForAProductTest()[pri:0, instance:testScripts.s101SearchForAProduct@34ce8af7]" name="s101SearchForAProductTest" duration-ms="302" started-at="2017-03-01T22:09:25Z" finished-at="2017-03-01T22:09:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- s101SearchForAProductTest -->
+        <test-method status="PASS" signature="close()[pri:0, instance:testScripts.s101SearchForAProduct@34ce8af7]" name="close" is-config="true" duration-ms="688" started-at="2017-03-01T22:09:26Z" finished-at="2017-03-01T22:09:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- testScripts.s101SearchForAProduct -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

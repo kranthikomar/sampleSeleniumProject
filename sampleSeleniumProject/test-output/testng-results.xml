@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="32138" started-at="2017-03-01T01:03:53Z" finished-at="2017-03-01T01:04:25Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="32138" started-at="2017-03-01T01:03:53Z" finished-at="2017-03-01T01:04:25Z">
+      <class name="testScripts.s102SearchForProductAndVerifyPLP">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:testScripts.s102SearchForProductAndVerifyPLP@3bfdc050]" name="beforeMethod" is-config="true" duration-ms="21185" started-at="2017-02-28T20:03:53Z" finished-at="2017-02-28T20:04:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="s102SearchForProductAndVerifyPLPTest()[pri:0, instance:testScripts.s102SearchForProductAndVerifyPLP@3bfdc050]" name="s102SearchForProductAndVerifyPLPTest" duration-ms="9917" started-at="2017-02-28T20:04:14Z" finished-at="2017-02-28T20:04:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- s102SearchForProductAndVerifyPLPTest -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:testScripts.s102SearchForProductAndVerifyPLP@3bfdc050]" name="afterTest" is-config="true" duration-ms="1036" started-at="2017-02-28T20:04:24Z" finished-at="2017-02-28T20:04:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- testScripts.s102SearchForProductAndVerifyPLP -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
