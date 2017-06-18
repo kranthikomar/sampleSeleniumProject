@@ -2,24 +2,24 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="32138" started-at="2017-03-01T01:03:53Z" finished-at="2017-03-01T01:04:25Z">
+  <suite name="Default suite" duration-ms="36002" started-at="2017-06-18T23:35:55Z" finished-at="2017-06-18T23:36:31Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="32138" started-at="2017-03-01T01:03:53Z" finished-at="2017-03-01T01:04:25Z">
-      <class name="testScripts.s102SearchForProductAndVerifyPLP">
-        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:testScripts.s102SearchForProductAndVerifyPLP@3bfdc050]" name="beforeMethod" is-config="true" duration-ms="21185" started-at="2017-02-28T20:03:53Z" finished-at="2017-02-28T20:04:14Z">
+    <test name="Default test" duration-ms="36002" started-at="2017-06-18T23:35:55Z" finished-at="2017-06-18T23:36:31Z">
+      <class name="testScripts.s101SearchForAProduct">
+        <test-method status="PASS" signature="init()[pri:0, instance:testScripts.s101SearchForAProduct@3bfdc050]" name="init" is-config="true" duration-ms="33909" started-at="2017-06-18T19:35:55Z" finished-at="2017-06-18T19:36:29Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="s102SearchForProductAndVerifyPLPTest()[pri:0, instance:testScripts.s102SearchForProductAndVerifyPLP@3bfdc050]" name="s102SearchForProductAndVerifyPLPTest" duration-ms="9917" started-at="2017-02-28T20:04:14Z" finished-at="2017-02-28T20:04:24Z">
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="s101SearchForAProductTest()[pri:0, instance:testScripts.s101SearchForAProduct@3bfdc050]" name="s101SearchForAProductTest" duration-ms="643" started-at="2017-06-18T19:36:29Z" finished-at="2017-06-18T19:36:29Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- s102SearchForProductAndVerifyPLPTest -->
-        <test-method status="PASS" signature="afterTest()[pri:0, instance:testScripts.s102SearchForProductAndVerifyPLP@3bfdc050]" name="afterTest" is-config="true" duration-ms="1036" started-at="2017-02-28T20:04:24Z" finished-at="2017-02-28T20:04:25Z">
+        </test-method> <!-- s101SearchForAProductTest -->
+        <test-method status="PASS" signature="close()[pri:0, instance:testScripts.s101SearchForAProduct@3bfdc050]" name="close" is-config="true" duration-ms="1436" started-at="2017-06-18T19:36:30Z" finished-at="2017-06-18T19:36:31Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- afterTest -->
-      </class> <!-- testScripts.s102SearchForProductAndVerifyPLP -->
+        </test-method> <!-- close -->
+      </class> <!-- testScripts.s101SearchForAProduct -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
